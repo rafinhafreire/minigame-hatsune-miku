@@ -14,7 +14,7 @@ Para jogar <a href="--">Clique aqui!!</a>
 ## Apresentação:
  
 ### Tela Inicial: 
-<img src="img/prest-game/tela-init.png">
+<img src="jogo-da-hatsune-miku/jogo/img/prest-game/tela-init.png">
 
 ### Tela de GameOver:
-<img src="img/prest-game/tela-gameover.png">
+<img src="jogo-da-hatsune-miku/jogo/img/prest-game/tela-gameover.png">
