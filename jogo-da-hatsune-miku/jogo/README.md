@@ -2,7 +2,7 @@
 
 Esse jogo tem como objetivo possibilitar que os usuarios que navegam na web se dirvitam com o jogo da miku!!
 
-Para jogar <a href="https://fabio-jr-sm.github.io/jogo-do-miku/">Clique aqui!!</a>
+Para jogar <a href="https://rafa-sm.github.io/jogo-do-miku/">Clique aqui!!</a>
 
 ## Tecnologias usadas: 
 <ul>
