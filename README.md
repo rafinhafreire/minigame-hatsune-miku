@@ -14,7 +14,7 @@ Para jogar <a href="https://rafa-sm.github.io/jogo-do-miku/">Clique aqui!!</a>
 ## Apresentação:
  
 ### Tela Inicial: 
-<img src="jogo-da-hatsune-miku/jogo/img/prest-game/tela-init.png">
+<img src="img/prest-game/tela-init.png">
 
 ### Tela de GameOver:
-<img src="jogo-da-hatsune-miku/jogo/img/prest-game/tela-gameover.png">
+<img src="img/prest-game/tela-gameover.png">
